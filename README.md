@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-👨‍💻i'm Pallavi, i am an experienced professional with over 5+ years of expertise in Information Technology. My skill set encompasses a wide range of UI/UX designing and testing areas.
+👨‍💻I'm Pallavi, I am an experienced professional with over 5+ years of expertise in Information Technology. My skill set encompasses a wide range of UI/UX designing and testing areas.
 
 🔬 Testing Expertise:
 
