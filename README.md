@@ -22,7 +22,6 @@
 <code><img height="35" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png"></code>
 <code><img height="35" src="https://webdriver.io/img/logo-webdriver-io.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/K6-load-testing-tool-logo.svg/2105px-K6-load-testing-tool-logo.svg.png"></code>
-<code><img height="35" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"></code>
 <code><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="35" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"></code>
