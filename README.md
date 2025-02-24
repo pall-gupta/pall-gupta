@@ -1,18 +1,20 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-👨‍💻I'm Pallavi, I am an experienced professional with over 5+ years of expertise in Information Technology. My skill set encompasses a wide range of UI/UX designing and testing areas.
-
-🔬 Testing Expertise:
-
-- Strong experience in designing and implementing automated test frameworks using industry-standard tools and technologies.
-- Proficient in writing reliable test scripts for functional, regression, and performance testing.
-- Skilled in test planning, test case development, and test execution to ensure comprehensive coverage and high-quality software.
-
-🎨 UI / UX Skills:
-
-- Extensive knowledge of user-centered design principles and best practices.
-- Proficient in creating intuitive and visually appealing interfaces that enhance user engagement and satisfaction..
-- Solid understanding of usability principles, accessibility guidelines, and responsive design.
+👨‍💻 Certified Project Manager | Agile & Scrum Enthusiast
+ 
+🔬 With 6+ years of experience in Quality Assurance, I specialize in ensuring flawless UI/UX experiences, leading scrum teams, and driving projects to success. My passion lies in bridging the gap between creativity and precision, ensuring every project not only meets but exceeds expectations.
+ 
+Recently, I earned the Google Project Management Professional Certificate, diving deep into Agile practices, Scrum methodologies, and strategic communication. Whether it’s crafting effective project documentation or solving complex stakeholder challenges, I bring a solution-oriented mindset to every table.
+ 
+📌 What I bring to the table:
+ 
+- Hands-on experience leading projects and managing cross-functional teams
+- Expertise in QA and UI/UX
+- Proficiency in Agile project management and Scrum roles
+- A knack for strategic communication and team collaboration
+ 
+When I’m not optimizing workflows or debugging the finer details of a project, you can find me exploring new tools and strategies to enhance team productivity and efficiency.
+ 
+Let’s connect if you’re interested in project management, Agile practices, or simply want to geek out over the latest tech trends!
 
 🛠️ Languages and Tools:
 
@@ -34,6 +36,6 @@
 
 🤝🏻 Connect with Me
 
-- Email: pallavigupta842@gmail.com
+- Email: hiitspall@gmail.com
 - LinkedIn: https://linkedin.com/in/pallgupta
 - Website/Portfolio: https://pall-gupta.github.io/
