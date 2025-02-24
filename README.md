@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 👨‍💻 Certified Project Manager | Agile & Scrum Enthusiast
  
-🔬 With 6+ years of experience in Quality Assurance, I specialize in ensuring flawless UI/UX experiences, leading scrum teams, and driving projects to success. My passion lies in bridging the gap between creativity and precision, ensuring every project not only meets but exceeds expectations.
+🔬 With 6+ years of experience in Tech, I specialize in ensuring flawless UI/UX experiences, leading scrum teams, and driving projects to success. My passion lies in bridging the gap between creativity and precision, ensuring every project not only meets but exceeds expectations.
  
 Recently, I earned the Google Project Management Professional Certificate, diving deep into Agile practices, Scrum methodologies, and strategic communication. Whether it’s crafting effective project documentation or solving complex stakeholder challenges, I bring a solution-oriented mindset to every table.
  
