@@ -45,7 +45,7 @@ Let’s connect if you’re interested in project management, Agile practices, o
 Get support
  
  
-https://uat-phygital.maxicus.com/samsung-test/
+https://uat-samsung.maxicus.com/samsung-test/
  
 Book a demo
  
