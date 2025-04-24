@@ -39,3 +39,13 @@ Let’s connect if you’re interested in project management, Agile practices, o
 - Email: hiitspall@gmail.com
 - LinkedIn: https://linkedin.com/in/pallgupta
 - Website/Portfolio: https://pall-gupta.github.io/
+
+- https://uat-phygital.maxicus.com/samsung-test/
+ 
+Get support
+ 
+ 
+https://uat-phygital.maxicus.com/samsung-test/
+ 
+Book a demo
+ 
