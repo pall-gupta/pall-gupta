@@ -40,4 +40,4 @@ Let’s connect if you’re interested in project management, Agile practices, o
 - LinkedIn: https://linkedin.com/in/pallgupta
 - Website/Portfolio: https://pall-gupta.github.io/
 
-https://uat-phygital.maxicus.com/test/
+https://demo-phygital.maxicus.com/test/
